@@ -5,6 +5,7 @@ This is a Vicinity Adapter for MPH Pilot infrastructure.It is used to describe m
 ## Requirements
 
 JDK 1.8
+Apache Maven 3.3.9 or higher
 
 ## Build using Maven
 
